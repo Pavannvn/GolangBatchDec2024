@@ -128,7 +128,6 @@
 
 ### Day 6    - 03rd Jan 2025
 
-                        context
                         reflect
 
                         Creating Custom Packages
@@ -136,11 +135,11 @@
         Chapter 11: File Operations
                         UnStructured- text, pdf files
                         Structured - csv, xml, json, yaml
-                        ZipFiles - .zip, .tar files
 
 ## Next class
 
-
+                        ZipFiles - .zip, .tar files
+                    context package
         Chapter 12: Logging
                         Built-in logger
                         Logrus
